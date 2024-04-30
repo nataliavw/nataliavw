@@ -6,7 +6,7 @@
 
 ### A little more about me...
 
-👋 Hi there!  I'm Natalia, a recent DevOps graduate.  I'm excited about improving software development processes and exploring the world of automation and collaboration.  During my studies, I focused on learning about DevOps principles and methodologies, and I'm eager to apply this knowledge in real-world scenarios.  I'm passionate about tackling challenges and finding creative solutions.  Let's build interesting solutions together!
+👋 Hi there!  I'm Natalia, a DevOps engineer.  I'm excited about improving software development processes and exploring the world of automation and collaboration.  During my studies, I focused on learning about DevOps principles and methodologies, and I'm eager to apply this knowledge in real-world scenarios.  I'm passionate about tackling challenges and finding creative solutions.  Let's build interesting solutions together!
 
 ![Nataliavw's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliavw&hide=stars&show_icons=true&theme=shadow_green)
 ![Nataliavw's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliavw&show_icons=true&layout=compact&theme=shadow_green)
